@@ -1,29 +1,21 @@
-## Welcome to My GitHub Profile!
+# 💫 About Me:
+I'm currently working on an estate project.<br>I'm looking to collaborate with startups and founders to work together.
 
-I'm Mukarram, a mobile application developer with a passion for creating innovative and impactful apps. Below, you'll find some of my notable projects:
 
-### Basarat Eye Care Health App
-[Basarat Eye Care Health App](https://github.com/Mukarram-Dev/Basarat-Application)
-Introducing Basarat, the innovative eye health care app developed with Flutter. Basarat is a prime example of how technology can promote wellness. With this app, users can proactively care for their eye health, receiving specialized guidance and tracking their progress.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukaram.ali.mobile.app.developer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukarram_rajp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukarram-app-developer) 
 
-### Bus Tracking Application
-[Bus Tracking Application](https://github.com/Mukarram-Dev/Transport-Tracking-App)
-I take immense pride in presenting my bus tracking app developed using Flutter, a cross-platform framework known for its versatility and seamless performance. This innovative solution integrates the power of Google Maps API for real-time tracking, allowing users to monitor and predict bus routes, arrivals, and departures with precision.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mukarram-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mukarram-Dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukarram-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Business Management App
-[Business Management App](https://github.com/Mukarram-Dev/Business-Management-App)
-Business Management App is a mobile application designed to assist businesses in managing their day-to-day operations. The app provides functionalities for creating bills, managing customers, and tracking product sales. It aims to streamline business processes and enhance productivity by offering a user-friendly interface and database integration.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mukarram-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Student Management App
-[Student Management App](https://github.com/Mukarram-Dev/Student-Management-App)
-The Student Management System app is a comprehensive Java-based application that simplifies the management of student-related tasks. It offers features such as course enrollment, course dropping, marks management, timetable viewing, timetable addition, fee management, and fee voucher generation. This app efficiently handles the organization of student information, promotes effective communication between students and faculty, and facilitates easy access to crucial details.
+---
+[![](https://visitcount.itsvg.in/api?id=Mukarram-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Survey App
-[Survey App](https://github.com/Mukarram-Dev/survey_app)
-I'm thrilled to showcase a collaborative project with BrainBytes, the renowned IT company, resulting in the creation of an advanced survey app developed in Java. This robust solution combines Java's power with PHP and MySQL to deliver a feature-rich platform for efficient data collection and analysis.
-
-### Portfolio
-[My Portfolio](https://github.com/Mukarram-Dev/mukarram-ali.github.io)
-Explore more about my work and experience on my [portfolio](https://github.com/Mukarram-Dev/mukarram-ali.github.io).
-
-Feel free to explore these projects and my contributions. I'm passionate about building solutions that make a difference. Let's connect and discuss how we can collaborate on your next project!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
