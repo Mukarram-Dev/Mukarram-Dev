@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Mukarram Mobile App Developer Expert.
 I'm currently working on a ecommerce project.<br>I'm looking to collaborate with startups and founders to work together.
+I'm learning node.js and javascript.
 
 
 ## 🌐 Socials:
