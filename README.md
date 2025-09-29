@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi there, I'm Mukarram Mobile App Developer Expert.
-I'm currently working on a VPN app using Java Android.<br>I'm looking to collaborate with startups and founders to work together.
+Hi there, I'm Mukarram, a Mobile App Developer Expert.
+I'm currently working on a Fiverr-based project for teachers and students.<br>I'm looking to collaborate with startups and founders to work together.
 I'm learning node.js and javascript.
 
 
