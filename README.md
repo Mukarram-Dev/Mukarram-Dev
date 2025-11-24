@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Mukarram, a Mobile App Developer Expert.
 I'm currently working on a Fiverr-based project for teachers and students.<br>I'm looking to collaborate with startups and founders to work together.
-I'm learning node.js and javascript.
+I'm learning Python and Data Science.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukaram.ali.mobile.app.developer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukarram_rajp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukarram-app-developer) 
